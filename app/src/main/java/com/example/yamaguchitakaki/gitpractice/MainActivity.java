@@ -15,5 +15,9 @@ public class MainActivity extends AppCompatActivity {
         // コメントを追加しました 2
 
         // トピックブランチ/変更 1
+
+        // 変更3
+
+        // 変更4
     }
 }
