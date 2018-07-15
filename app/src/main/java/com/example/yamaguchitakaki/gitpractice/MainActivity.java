@@ -19,5 +19,7 @@ public class MainActivity extends AppCompatActivity {
         // 変更3
 
         // 変更4
+
+        // トピックブランチ/変更 2
     }
 }
